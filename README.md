@@ -73,3 +73,25 @@ This will process all `.huffman` and `.huffman.table` files in the current direc
 
 
 
+
+## Examples
+
+### File System with Compressed File
+
+This image shows the file system with a `.bin` file that contains all the compressed `.txt` files.
+
+![File System with Compressed File](./Images/HuffmanEncodeUTF8Img1.png)
+
+### Decoded Folder
+
+This image shows the `decoded` folder with all the decompressed files.
+
+![Decoded Folder](./Images/HuffmanEncodeUTF8Img2.png)
+
+### Decoded Directory with Original Files
+
+This image shows the `decoded` directory with all the original decompressed `.txt` files.
+
+![Decoded Directory with Original Files](./Images/HuffmanEncodeUTF8Img3.png)
+
+
