@@ -71,17 +71,5 @@ This will process all `.huffman` and `.huffman.table` files in the current direc
 - **huffman_decode_utf.c**: Source code for decompressing compressed files.
 - **dependencies.sh**: Installation script that installs dependencies and compiles the source files.
 
-## Examples
 
-### Compressing files
-
-```sh
-./encode
-```
-
-### Decompressing files
-
-```sh
-./decode
-```
 
